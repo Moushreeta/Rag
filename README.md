@@ -22,16 +22,25 @@ This repository hosts a chatbot system capable of answering queries related to l
 Ensure you have the following dependencies installed:
 
 **PyPDF2** for PDF manipulation.
+
 **RecursiveCharacterTextSplitter** for text chunking.
+
 **HuggingFaceEmbeddings** for embeddings.
+
 **Chroma** for document embedding storage and retrieval.
 
 **Installation**
 1.Clone this repository to your local machine.
+
 git clone <repository_url>
+
 2.Install the required Python dependencies.
+
 pip install PyPDF2  # for PDF manipulation
+
 pip install recursive-text-splitter  # for text chunking
+
 pip install sentence-transformers  # for embeddings
+
 pip install chroma  # for document embedding storage and retrieval
 
