@@ -1,4 +1,4 @@
-**Lung Cancer Query-Answering Chatbot (RAG-based)**
+                                                 **Lung Cancer Query-Answering Chatbot (RAG-based)**
 
 This repository hosts a chatbot system capable of answering queries related to lung cancer. The system utilizes the Retrieval-Augmented Generation (RAG) framework, integrating data from various sources including government health websites such as NIH and research papers.
 
@@ -44,4 +44,3 @@ pip install recursive-text-splitter  # for text chunking
 pip install sentence-transformers  # for embeddings
 
 pip install chroma  # for document embedding storage and retrieval
-
