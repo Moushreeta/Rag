@@ -30,6 +30,7 @@ Ensure you have the following dependencies installed:
 **Chroma** for document embedding storage and retrieval.
 
 **Installation**
+
 1.Clone this repository to your local machine.
 
 git clone <repository_url>
